@@ -7,8 +7,8 @@ for(let i=1;i<=13;i++){
     }
 }
 if(count==2){
-    console.log("NOT PRIME");
+    console.log("Prime No");
 }
 else{
-    console.log("PRIME");
+    console.log("Not Prime");
 }
